@@ -88,7 +88,7 @@ chmod +x linux.sh
 
 
 ```
-git clone https://github.com/SamueleAmato/SocialMediaHackingToolkit
+git clone https://github.com/almotasemafifi/SocialMediaHackingToolkit
 
 cd SocialMediaHackingToolkit
 
